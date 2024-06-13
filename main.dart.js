@@ -85303,7 +85303,7 @@ agL(a){var s=0,r=A.D(t.y),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$ka=A.z(function(b,a0){if(b===1){o=a0
 s=p}while(true)switch(s){case 0:p=4
 m=A.b0(a,!1,t.q)
-l=A.aCA(m.c+"/chains/"+m.d+"/applications/28b0858a40ba4b41363d63bacbf2a7fe01669475dc865a6091ac8a99e822bc6600000000000000000000000028b0858a40ba4b41363d63bacbf2a7fe01669475dc865a6091ac8a99e822bc66020000000000000000000000",B.mg)
+l=A.aCA(m.c+"/chains/"+m.d+"/applications/b12f5885bb54ea25d26cbb59795e249392b0c8892df11e51c31aea77befbabbb000000000000000000000000b12f5885bb54ea25d26cbb59795e249392b0c8892df11e51c31aea77befbabbb020000000000000000000000",B.mg)
 m.b=A.aCu(A.aCt(),l)
 p=2
 s=6
@@ -85472,7 +85472,7 @@ case 3:k=c
 if(a.e==null){q="context not mounted"
 s=1
 break}p=t.q
-o=A.ae(["targetChainId","28b0858a40ba4b41363d63bacbf2a7fe01669475dc865a6091ac8a99e822bc66","applicationId","28b0858a40ba4b41363d63bacbf2a7fe01669475dc865a6091ac8a99e822bc6600000000000000000000000028b0858a40ba4b41363d63bacbf2a7fe01669475dc865a6091ac8a99e822bc66020000000000000000000000","chainId",A.b0(a,!1,p).d],t.N,t.z)
+o=A.ae(["targetChainId","b12f5885bb54ea25d26cbb59795e249392b0c8892df11e51c31aea77befbabbb","applicationId","b12f5885bb54ea25d26cbb59795e249392b0c8892df11e51c31aea77befbabbb000000000000000000000000b12f5885bb54ea25d26cbb59795e249392b0c8892df11e51c31aea77befbabbb020000000000000000000000","chainId",A.b0(a,!1,p).d],t.N,t.z)
 p=A.b0(a,!1,p).a
 p.toString
 s=4
