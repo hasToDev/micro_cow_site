@@ -86408,7 +86408,7 @@ A.as4.prototype={
 $1(a){var s,r=null
 if(this.a.a===0)return B.bC
 s=A.K(a).p2.Q
-return new A.aL(B.FG,A.cv(A.dJ(B.aa,A.a([A.bH("v0.2.3",1,B.T,r,r,s==null?r:s.kd(B.cm,B.H,1.6),B.b3,r)],t.p),B.b6,B.aa,0,0),20,r),r)},
+return new A.aL(B.FG,A.cv(A.dJ(B.aa,A.a([A.bH("v0.2.4",1,B.T,r,r,s==null?r:s.kd(B.cm,B.H,1.6),B.b3,r)],t.p),B.b6,B.aa,0,0),20,r),r)},
 $S:205}
 A.as5.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="[a-z0-9]",c=this.a,b=c.a
@@ -86617,7 +86617,7 @@ A.fk(!1,"isUtc",t.y)
 s=A.aP1(new A.dQ(r,!1))
 if(!B.c.p(s,"ago"))s=""+B.f.cJ(A.cZ(0,Date.now()-r).a,864e8)+" days"
 s=B.c.jN(A.e2(s,"ago",""))
-r=(b-q)/144e8>1?"-":s
+r=(b-q)/864e8>1?"-":s
 return new A.r9("Age",r,!0,this.b.b,null)},
 $S:615}
 A.a1O.prototype={
@@ -86636,7 +86636,7 @@ $S:210}
 A.a1P.prototype={
 $3(a,b,c){var s=this.a.c.f
 s===$&&A.b()
-return new A.tS(b,s,144e8,null)},
+return new A.tS(b,s,864e8,null)},
 $S:617}
 A.tS.prototype={
 J(a){var s,r,q=null,p={},o=(this.c-this.d)/this.e,n=o>1
